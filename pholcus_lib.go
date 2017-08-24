@@ -13,7 +13,7 @@ import (
 	// _ "github.com/henrylee2cn/pholcus_lib/jdsearch"
 	// _ "github.com/henrylee2cn/pholcus_lib/jingdong"
 	// _ "github.com/henrylee2cn/pholcus_lib/kaola"
-	_ "github.com/etronlink/pholcus_lib/kuaidaili"
+	_ "github.com/etronlink/pholcus_lib_pte/kuaidaili"
 	// _ "github.com/henrylee2cn/pholcus_lib/lewa"
 	// _ "github.com/henrylee2cn/pholcus_lib/miyabaobei"
 	// _ "github.com/henrylee2cn/pholcus_lib/people"
