@@ -33,7 +33,7 @@ func init() {
 }
 
 var Kuaidaili = &Spider{
-	Name:         "获取免费代理列表",
+	Name:         "kuaidaili",
 	Description:  `获取免费代理列表 [www.kuaidaili.com]`,
 	Pausetime:    2000,
 	Keyin:        KEYIN,
@@ -88,4 +88,3 @@ var Kuaidaili = &Spider{
 		},
 	},
 }
-
